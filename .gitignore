@@ -1,0 +1,3 @@
+# ignore all
+variables.env
+/node_modules
